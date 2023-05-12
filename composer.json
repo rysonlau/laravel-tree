@@ -1,5 +1,5 @@
 {
-    "name": "rysonlau/laravelTree",
+    "name": "rysonlau/laravel-tree",
     "description": "Tree generator",
     "keywords": ["Tree", "Node", "generator"],
     "type": "library",
